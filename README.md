@@ -3,7 +3,7 @@
 
 > Week 1
 
-Submited date : 28Jan 2023
+Submited date : 28Jan 2023 \newline
 Closed date : 28 Jane 2023
 
 **Week1 achieves:**
