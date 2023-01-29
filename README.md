@@ -3,10 +3,10 @@
 
 > Week 1
 
-Submited date : 28Jan 2023 \newline
-Closed date : 28 Jane 2023
+Submited date : 28Jan 2023 \
+Closed date : 28 Jane 2023 \
 
-**Week1 achieves:**
+**Achievables:**
 1. Familiarized with Github enviroment - repository system
 2. Created a basic python script - print on the screen "Hello World"
 
