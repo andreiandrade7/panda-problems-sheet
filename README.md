@@ -4,7 +4,7 @@
 > Week 1
 
 Submited date : 28Jan 2023 \
-Closed date : 28 Jane 2023 \
+Closed date : 28 Jane 2023
 
 **Achievables:**
 1. Familiarized with Github enviroment - repository system
