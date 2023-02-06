@@ -13,3 +13,14 @@ Closed date : 28 Jan 2023
 
 
 
+> Week 2
+
+Submited date : 6 Feb 2023 \
+Closed date : 6 Feb 2023
+
+**Achievables:**
+1. Familiarized mathematical operations, type os variables
+2. Receive inputs from the user and show them on the screen
+ 
+
+
