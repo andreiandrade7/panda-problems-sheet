@@ -5,6 +5,7 @@
 
 Submited date : 28Jan 2023 \
 Closed date : 28 Jan 2023
+Script name: HelloWorld.py
 
 **Achievables:**
 1. Familiarized with Github enviroment - repository system
@@ -17,6 +18,7 @@ Closed date : 28 Jan 2023
 
 Submited date : 6 Feb 2023 \
 Closed date : 6 Feb 2023
+Script name: bank.py
 
 **Achievables:**
 1. Familiarized mathematical operations, type os variables
@@ -24,3 +26,12 @@ Closed date : 6 Feb 2023
  
 
 
+> Week 3
+
+Submited date : 12 Feb 2023 \
+Closed date : 12 Feb 2023
+Script name: accounts.py
+
+**Achievables:**
+1. Familiarized with strings, lists and handle the values on the index positions
+2. Learn fundamental rules of algorithm design, get them the most generilized as possible
