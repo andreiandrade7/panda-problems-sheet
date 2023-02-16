@@ -35,3 +35,15 @@ Script name: accounts.py
 **Achievables:**
 1. Familiarized with strings, lists and handle the values on the index positions
 2. Learn fundamental rules of algorithm design, get them the most generilized as possible
+
+
+> Week 4
+
+Submited date : 16 Feb 2023 \
+Closed date : 16 Feb 2023
+Script name: collatz.py
+
+**Achievables:**
+1. Familiarized with the syntax for buiding conditions - if, else, elif
+2. Familiarized with the syntax for buiding conditions - for and while cycle
+3. Algorithm developing regarding one known algoritm concept: collatz
