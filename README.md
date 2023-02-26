@@ -47,3 +47,15 @@ Script name: collatz.py
 1. Familiarized with the syntax for buiding conditions - if, else, elif
 2. Familiarized with the syntax for buiding conditions - for and while cycle
 3. Algorithm developing regarding one known algoritm concept: collatz
+
+
+> Week 5
+
+Submited date : 26 Feb 2023 \
+Closed date : 26 Feb 2023
+Script name: weekday.py
+
+**Achievables:**
+1. Search methods of accessing date
+2. Review some concepts regarding if/else clauses
+
