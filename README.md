@@ -59,3 +59,15 @@ Script name: weekday.py
 1. Search methods of accessing date
 2. Review some concepts regarding if/else clauses
 
+
+> Week 6
+
+Submited date : 19 March 2023 \
+Closed date : 28 March 2023
+Script name: squareroot.py
+
+**Achievables:**
+1. Get familiar with functions set up
+2. Execute a search for knowing how to estimate root square throught Newthon protocol
+
+
