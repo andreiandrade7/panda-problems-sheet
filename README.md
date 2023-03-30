@@ -71,3 +71,14 @@ Script name: squareroot.py
 2. Execute a search for knowing how to estimate root square throught Newthon protocol
 
 
+> Week 7
+
+Submited date : 30 March 2023 \
+Closed date : 30 March 2023
+Script name: es.py + moby-dick.txt
+
+**Achievables:**
+1. Get familiar with upload info that is on files
+2. Search methods how to insert arguments into the terminal
+
+
