@@ -12,6 +12,7 @@ Script name: HelloWorld.py
 2. Created a basic python script - print on the screen "Hello World"
 
 
+_______________________________________________________________________
 
 
 > Week 2
@@ -24,9 +25,11 @@ Script name: bank.py
 1. Familiarized mathematical operations, type os variables
 2. Receive inputs from the user and show them on the screen
  
+ 
+ _______________________________________________________________________
 
-
-> Week 3
+ 
+ > Week 3
 
 Submited date : 12 Feb 2023 \
 Closed date : 12 Feb 2023
@@ -35,6 +38,9 @@ Script name: accounts.py
 **Achievables:**
 1. Familiarized with strings, lists and handle the values on the index positions
 2. Learn fundamental rules of algorithm design, get them the most generilized as possible
+
+
+_______________________________________________________________________
 
 
 > Week 4
@@ -49,6 +55,9 @@ Script name: collatz.py
 3. Algorithm developing regarding one known algoritm concept: collatz
 
 
+_______________________________________________________________________
+
+
 > Week 5
 
 Submited date : 26 Feb 2023 \
@@ -58,6 +67,9 @@ Script name: weekday.py
 **Achievables:**
 1. Search methods of accessing date
 2. Review some concepts regarding if/else clauses
+
+
+_______________________________________________________________________
 
 
 > Week 6
@@ -71,9 +83,12 @@ Script name: squareroot.py
 2. Execute a search for knowing how to estimate root square throught Newthon protocol
 
 
+_______________________________________________________________________
+
+
 > Week 7
 
-Submited date : 30 March 2023 \
+Submited date : 30 March 2023 
 Closed date : 30 March 2023
 Script name: es.py + moby-dick.txt
 
@@ -81,4 +96,17 @@ Script name: es.py + moby-dick.txt
 1. Get familiar with upload info that is on files
 2. Search methods how to insert arguments into the terminal
 
+
+_______________________________________________________________________
+
+
+> Week 8
+
+Submited date : 1 April 2023
+Closed date : 1 April 2023
+Script name: plottask.py
+
+**Achievables:**
+1. Get familiar with libraries: matplotlib and numpy
+2. Create data and ploting it on image. Edit the plot  (adding extra info) 
 
