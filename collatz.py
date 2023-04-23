@@ -45,5 +45,8 @@ while current>=2: # cycle executed to guarantee that algorithm end is lower than
 
 #4-------------- Output
 
-print("\n\nEND of program\n\nThe positions estimated accordingly to Collatz algoritm are:\n{}".format(sequence))
+print("\n\nEND of program\n\nThe positions estimated accordingly to Collatz algoritm are:")
 
+
+for number in sequence:
+  print(number,end=" ")

@@ -23,12 +23,12 @@ print ("No of decimal places {} \n\n\n\n".format(no_decimal))
 # 2 . function definition-   estimate the square root throught Newton's method
 #------------------------------------------------------------------------------
 
-def my_sqrt(number):
+def my_sqrt(number,tolerance):
     guess = number/2 # first trial for the guessing. Iterate further for approximate the value 
 
     value= (guess + number/guess)/2 # estimate a new value
     
-    while value != guess:
+    while abs(value - guess)>tolerance: 
         guess = value # guess upadated with the new estimate value
         value = (guess + number/guess)/2
     return guess
@@ -37,7 +37,9 @@ def my_sqrt(number):
 # 3 . function execution and print its original format
 #------------------------------------------------------------------------------
 
-root=my_sqrt(number)
+
+tolerance=0.0001
+root=my_sqrt(number,tolerance)
 print("The estimated square root for the inserted number:{} is {}\n\n\n\n".format(number, root))
 
 #---------------------------------------------------------------------------------------------------------------------
@@ -47,4 +49,4 @@ print("The estimated square root for the inserted number:{} is {}\n\n\n\n".forma
 
 root_decimal= x = round(root, no_decimal)
 
-print("The estimated square root with {} decimal places is {}\n\n\n\n".format(number,root_decimal))
+print("The estimated square root with {} decimal places is {}\n\n\n\n".format(no_decimal,root_decimal))

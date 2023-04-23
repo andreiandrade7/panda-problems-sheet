@@ -19,7 +19,7 @@ show=4 # number of shown numbers
 
 #method 2 - user insert the bank digits and all digits are  non visible while inserting them. Necessary to install the python lybrary "pip install pwinput" on the terminal and consequently import it to the script
 import pwinput
-account = pwinput.pwinput("\n\n\nPlease insert your account no\n",mask='*')
+account = pwinput.pwinput("\n\n\nPlease insert your account no\n",mask='*') # Pwinput collects digits inserted by the user which will be replaced by "*" (mask value ) on the insertion moment guarantying some privacy 
 
 
 #method 1 - user insert the bank digits and all digits are visible while inserting them

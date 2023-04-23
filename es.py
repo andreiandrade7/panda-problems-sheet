@@ -1,7 +1,13 @@
 # Author: Andreia Santos
 # Scope : week 7 - task 07
-# Aim : python program take a file input as an argument from command line and count how many "e" there are on the file
+# Aim : python program take a file input as an argument from command line and count how many "e" and "E" there are on the file. 
+#       The file must be inserted by the user. Example for running on ther terminal : python .\es.py .\moby-dick.txt. 
+#       Being the input a a text file named "moby-dick.txt". 
 
+# Assumptions :
+#1- Text file is already created and is on the same working directory and this script
+#2 - Text file name is given by the user as an argument
+#3 - IMPORTANT : Text file is must have  "e" and "E" on its content
 
 
 # needed function module to receive as an argument the name of the file : sys
@@ -25,5 +31,7 @@ with open(name) as f: # read what is inside
                 freqs[char] += 1 # a frequency estimation of the previous found character 
 
 
-print ("\n\n\The number of times that the character 'e' is found on the file is: {}\n\n\n".format(freqs["e"])) # outputs the freqeuncy of the "e" character
 
+
+print ("\n\nThe number of times that the character 'e' is found on the file is: {}".format(freqs["e"])) # outputs the freqeuncy of the "e" character
+print ("The number of times that the character 'E' is found on the file is: {}\n\n\n".format(freqs["E"])) # outputs the freqeuncy of the "e" character

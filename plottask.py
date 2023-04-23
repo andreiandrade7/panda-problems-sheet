@@ -22,7 +22,7 @@ plt.ylabel("Frequency")
 xpoints  = np.linspace(0, 10, 100) #create a evenly distributed array  with its starting point at 0 and finishing point at 10. The total no. of points will be 100
 ypoints=xpoints*xpoints*xpoints # create the y values (respect the function y=x^3 )
 plt.plot(xpoints, ypoints, color="red", label="y = x^3") # plot the function
-plt.legend(loc=2)
+plt.legend(['y = x^3', 'Normal Distribution, AVG=5, stdev=2'],loc=2)
 
 #-----------------------------------------------graph
 plt.grid()

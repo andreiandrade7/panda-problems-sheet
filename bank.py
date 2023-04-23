@@ -1,6 +1,6 @@
 # Author: Andreia Santos
 # Scope : week 2 - task 02
-# Aim : python program to estimate the sum of two amount inserted by the user . Both amount should be inseerted in cents
+# Aim : python program to estimate the sum of two amount inserted by the user . Both amount should be inserted in cents
 
 
 print("\n\n\nThe current code intends to add two money amounts inserted by the user/n Both amounts must be inserted on cents\n\n\n")
